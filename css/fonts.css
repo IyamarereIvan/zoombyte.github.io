@@ -1,0 +1,42 @@
+/* ===================================================================
+ * fonts.scss)
+ *
+ * ------------------------------------------------------------------- */
+ 
+/*
+ * Libre Baskerville 
+================================================================================ */
+@font-face {
+  font-family: "poppins-regular";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf"), url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+   font-family: "poppins-regular";
+   src: url("../fonts/Poppins/Poppins-Regular.ttf") format("tff"), url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "poppins-regular";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf") format("tff"), url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*
+ * Montserrat
+================================================================================ */
+@font-face {
+  font-family: "poppins-regular";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf") format("tff"),url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+ font-family: "poppins-regular";
+ src: url("../fonts/Poppins/Poppins-Regular.ttf") format("tff"),url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+  font-style: normal;
+  font-weight: normal;
+}
